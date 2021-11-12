@@ -1,0 +1,1 @@
+Small Proof of concept project to learn Prisma ORM using https://www.digitalocean.com/community/tutorials/how-to-build-a-rest-api-with-prisma-and-postgresql
